@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#990000</color>
+    <color name="colorPrimaryDark">#660000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorNavIcon">#BAF1FF</color>
+    <color name="colorNavText">#14FD05</color>
+    <color name="background">#05AEFD</color>
+    <color name="back">#C5FFFA</color>
+    <color name="backmain">#FF9904</color>
+    <color name="timemachine">#FF6A6A</color>
+    <color name="timetext">#FFC6C4</color>
+    <color name="mainsub">#7DCEA0</color>
+    <color name="highlight">#D81B60</color>
+    <color name="normal">#14FD05</color>
+    <color name="help">#ff8000</color>
+</resources>

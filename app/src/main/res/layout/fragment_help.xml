@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/help"
+    android:padding="20dp"
+    android:paddingBottom="20dp"
+    >
+
+    <Button
+        android:id="@+id/helpbutton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFDD00"
+        android:fontFamily="@font/chelsea_market"
+        android:onClick="GETLocation"
+        android:text="CLICK ANYWHERE ON SCREEN FOR HELP"
+        android:textColor="#FF0000"
+        android:textSize="40sp"
+
+        android:textStyle="bold" />
+</RelativeLayout>

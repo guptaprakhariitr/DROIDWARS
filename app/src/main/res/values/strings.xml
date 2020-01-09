@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dora</string>
+    <string name="title_home">HOME</string>
+    <string name="title_notifications">Any Where Door</string>
+    <string name="title_dashboard">Time Machine</string>
+    <string name="help">Help BUTTON</string>
+    <string name="dora">Doraemon</string>
+    <string name="description">This App Supports THREE Amazing Gadgets to Use</string>
+    <string name="factday">Fact of the day</string>
+    <string name="random_fact">A Random fact</string>
+    <string name="year">"\n YEAR:"</string>
+</resources>
