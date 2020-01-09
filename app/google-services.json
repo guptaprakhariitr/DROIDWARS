@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770212973115",
+    "firebase_url": "https://doraemonapp-71a2d.firebaseio.com",
+    "project_id": "doraemonapp-71a2d",
+    "storage_bucket": "doraemonapp-71a2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770212973115:android:8b2a5b97afca4ead92aa1e",
+        "android_client_info": {
+          "package_name": "com.example.doraemonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770212973115-sn7f5i8vqrfp2m6n6c9qa91viu6kl6hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doraemonapp",
+            "certificate_hash": "d65efc6b645327041a1faefb603da9f6391ac71b"
+          }
+        },
+        {
+          "client_id": "770212973115-6slvb9em95vl6d8rv697cepueftn3bq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQpWqbp8hozun1tV6kXgpGk8dsP1MVA6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770212973115-6slvb9em95vl6d8rv697cepueftn3bq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
