@@ -226,7 +226,7 @@ public class MainActivity extends AppCompatActivity {
                                 // GPS location can be null if GPS is switched off
                                 if (location != null) {
                                     SmsManager sms = SmsManager.getDefault();
-                                    String phoneNumber = "9997532967";
+                                    String phoneNumber = "PUT_YOUR_MOBILE_NO";
                                     String lat = String.valueOf(location.getLatitude());
                                     String lng = String.valueOf(location.getLongitude());
                                     String message = "http://maps.google.com/?q=" + lat + "," + lng;
